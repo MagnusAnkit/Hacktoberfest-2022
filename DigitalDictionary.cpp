@@ -13,7 +13,7 @@ And if no such words are available for a given search word, add this word to you
 #define REP(i,a,b) for(ll i=a;i<b;i++)
 #define REPI(i,a,b) for(ll i=b-1;i>=a;i--)
 #define mod 1000000007
-#define MAXI 10000000000
+#define MAXI 100000000000
 using namespace std;
 class Node{
 public:
